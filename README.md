@@ -18,7 +18,7 @@ O projeto foi criado para treinar as habilidades iniciais em desenvolvimento web
 
 _Tela principal onde os participantes são adicionados e o sorteio é realizado._
 
-![Tela Principal](https://user-images.githubusercontent.com/12345678/seu-link-para-a-imagem-aqui.png) <!-- Substitua pelo link da sua imagem -->
+<img src="Tela_principal.png" alt="Tela principal do sistema" width="70%" style="display: block; margin: 0 auto; text-align: center;">
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -55,7 +55,7 @@ Pronto! A aplicação estará funcionando.
   <b>CLEITON DOS SANTOS PEREIRA</b>
 </sub>
 <br>
-<a href="https://www.linkedin.com/in/seu-linkedin/">
+<a href="https://www.linkedin.com/in/cleiton-s-pereira/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
